@@ -1,0 +1,5 @@
+D:\SourceCodes\VSCodes\StrategyPattern\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SourceCodes\VSCodes\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\SourceCodes\VSCodes\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\SourceCodes\VSCodes\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+D:\SourceCodes\VSCodes\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
